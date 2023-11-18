@@ -1,9 +1,0 @@
-#+title: Voidekh
-
-There never was a man named Wojtek who would name his profile similarly.
-
-Anyway, this is an organization meant to put projects from both of my github 
-accounts, even if at some point I will merge them, the repos will still live
-on the same URL.
-
-That's that.
